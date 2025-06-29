@@ -1,4 +1,4 @@
-#Hi 👋, I'm Kushagra Patel<br><br>A full-stack developer and DSA enthusiast with a passion for blockchain technology.<br><br>
+# Hi 👋, I'm Kushagra Patel<br><br>A full-stack developer and DSA enthusiast with a passion for blockchain technology.<br><br>
 
 
 ## 🌐 Socials:
